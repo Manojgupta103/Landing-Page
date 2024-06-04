@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-section logo">
         <div className="logo-icon">
-        <img src="/images/Frame.png" alt="Logo" className="logo-image1" />
+        <img src="/images/Frame.jpg" alt="Logo" className="logo-image1" />
         </div>
         <div className="contact">
           <p><a href="mailto:Help@Frybix.Com">Help@Frybix.Com</a></p>
