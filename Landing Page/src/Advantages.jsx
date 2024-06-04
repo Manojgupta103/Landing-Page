@@ -9,11 +9,11 @@ const Advantages = () => {
         <h2 className="section-title">ADVANTAGES</h2>
         <h2>Why Choose Uifry?</h2>
         <div className="advantage">
-          <img src="/images/Group_35899.jpg" alt="Logo" className="logo-image1" />
+          <img src="/public/Group_35899.jpg" alt="Logo" className="logo-image1" />
           <div className="advantage-text">
             <h3>Clever Notifications</h3>
             <p>Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Accumsan, Ultricies. In Ultrices Malesuada Elit Mauris Etiam Odio. Duis Tristique Lacus, Et Blandit Viverra Nisl Velit. Sed Mattis Rhoncus, Diam Suspendisse Sit Nunc, Gravida Eu. Lectus Eget Eget Ac Dolor Neque Lorem Sapien, Suspendisse Aliquam.</p>
-            <img src='./images/star.jpg' alt='Star' className='star'></img>
+            <img src='./public/star.jpg' alt='Star' className='star'></img>
           </div>
         </div>
       </div>
