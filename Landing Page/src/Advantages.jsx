@@ -18,7 +18,7 @@ const Advantages = () => {
         </div>
       </div>
       <div className="advantages-image">
-        <img src="./images/iphone3.jpg" alt='Iphone'></img>
+        <img src="./public/iphone3.jpg" alt='Iphone'></img>
       </div>
     </div>
 
