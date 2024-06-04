@@ -6,7 +6,7 @@ import Features from './Features';
 import Advantages from './Advantages';
 import Customizable from './Customizable';
 import Testimonials from './Testimonials';
-import Faq from './FAQ';
+import Faq from './Faq';
 import CallToAction from './CallToAction';
 import Footer from './Footer';
 
