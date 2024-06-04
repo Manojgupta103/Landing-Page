@@ -17,11 +17,11 @@ const HeroSection = () => {
           <button className="get-started">Get Started ➡️</button>
           <button className="watch-video">Watch Video ▶️</button>
         </div>
-        <img src="./Public/Achievments.jpg" alt="Hero Image" />
+        <img src="../Public/Achievments.jpg" alt="Hero Image" />
 
       </div>
       <div className="image-section">
-        <img src="./Public/Iphone.png" alt="Hero Image" />
+        <img src="../Public/Iphone.png" alt="Hero Image" />
       </div>
     </div>
 
