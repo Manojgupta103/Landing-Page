@@ -21,7 +21,7 @@ const HeroSection = () => {
 
       </div>
       <div className="image-section">
-        <img src="./src/images/iphone.png" alt="Hero Image" />
+        <img src="./src/images/Iphone.png" alt="Hero Image" />
       </div>
     </div>
 
