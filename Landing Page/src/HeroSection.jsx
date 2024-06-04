@@ -18,10 +18,9 @@ const HeroSection = () => {
           <button className="watch-video">Watch Video ▶️</button>
         </div>
         <img src="Achievments.jpg" alt="Hero Image" />
-
       </div>
       <div className="image-section">
-        <img src="../Public/Iphone.png" alt="Hero Image" />
+        <img src="Iphone.png" alt="Hero Image" />
       </div>
     </div>
 
