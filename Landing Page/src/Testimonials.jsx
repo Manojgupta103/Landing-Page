@@ -22,7 +22,7 @@ const Testimonial = () => {
             Sit Nunc, Gravida Eu. Lectus Eget Eget Ac Dolor Neque Lorem Sapien, 
             Suspendisse Aliquam.
           </p>
-          <img src="group.jpg" alt="group" className='group' />
+          <img src="Group.jpg" alt="group" className='group' />
           <p className="user-name">Nick Jonas</p>
         </div>
       </div>

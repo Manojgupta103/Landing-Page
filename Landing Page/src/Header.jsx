@@ -15,7 +15,7 @@ const Header = () => {
         </ul>
       </nav>
       <button className="download-btn">Download</button>
-      <img className='Heroimage' src="./Public/star.jpg" alt="Hero Image1" />
+      <img className='Heroimage' src="star.jpg" alt="Hero Image1" />
     </header>
   );
 };

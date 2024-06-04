@@ -5,7 +5,7 @@ const Customizable = () => {
   return (
       <div className="customizable-container">
       <div className="customizable-image">
-        <img src="./Public/iphone4.jpg" alt="Customizable" />
+        <img src=".iphone4.jpg" alt="Customizable" />
       </div>
       <div className="customizable-text">
         <h2 className="section-title">FULLY CUSTOMIZABLE</h2>
