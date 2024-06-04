@@ -1,0 +1,64 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #fff;
+  }
+.logo-image{
+  width: 117px;
+  height: 34.41px;
+  top: 53px;
+  left: 17px;
+  gap: 0px;
+  opacity: 0px;
+}
+  .Home{
+    color: red;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    width: Hug (378px)px;
+    height: Hug (26px)px;
+    top: 57px;
+    left: 332px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    margin-right: auto;
+    width: Hug (378px)px;
+    height: Hug (26px)px;
+    top: 57px;
+    left: 332px;
+    gap: 24px;
+    opacity: 0px;
+    font-family: Clash Display;
+font-size: 20px;
+font-weight: 500;
+line-height: 35px;
+text-align: left;
+margin-left: 5px;
+  }
+  
+  .download-btn {
+    padding: 10px 20px;
+    background: #000000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+    width: 180px;
+    height: 60px;
+    top: 40px;
+    left: 1090px;
+    gap: 0px;
+    border-radius: 4px;
+    opacity: 0px;
+  }
+  
+  .Heroimage{
+    width: 50px;
+  }

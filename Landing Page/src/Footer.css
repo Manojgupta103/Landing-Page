@@ -1,0 +1,111 @@
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .footer-section {
+    flex: 1 1 200px;
+    margin: 10px;
+  }
+  .logo-image{
+    width: 117px;
+    height: 34.41px;
+    top: 53px;
+    left: 17px;
+    gap: 0px;
+    opacity: 0px;
+    display: block;
+  }
+  .footer .logo-icon img {
+    height: 40px;
+  }
+  
+  .footer .contact p {
+    margin: 0;
+    padding: 5px 0;
+  }
+  
+  .footer h4 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer ul li {
+    margin: 5px 0;
+  }
+  
+  .footer ul li a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .footer .newsletter p {
+    margin: 10px 0;
+  }
+  
+  .footer .newsletter-form {
+    display: flex;
+  }
+  
+  .footer .newsletter-form input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+  }
+  
+  .footer .newsletter-form button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+  }
+  
+  .footer .newsletter-form button:hover {
+    background-color: #444;
+  }
+.footer-section.copyright {
+    flex-basis: 100%;
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    font-size: 0.9em;
+  }
+  @media (max-width: 768px) {
+    .footer {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .footer-section {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .footer .newsletter-form {
+      flex-direction: column;
+    }
+  
+    .footer .newsletter-form input,
+    .footer .newsletter-form button {
+      width: 100%;
+      border-radius: 4px;
+    }
+  
+    .footer .newsletter-form button {
+      margin-top: 10px;
+    }
+  }
+  

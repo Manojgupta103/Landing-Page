@@ -1,0 +1,45 @@
+.cta-section {
+  padding: 50px 0;
+  text-align: center;
+  color: #ffffff;
+  max-width: fit-content;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 200%;
+}
+
+.download-app-btn {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-240%, 50%);
+  -ms-transform: translate(50%, 50%);
+}
+
+.download-app-btn:hover {
+  background-color: #e60000;
+}
+
+@media (max-width: 768px) {
+  .cta-section {
+    width: 100%;
+  }
+
+  .download-app-btn {
+    transform: translate(-170%, 30%);
+    -ms-transform: translate(-50%, 50%);
+  }
+}
