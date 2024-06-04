@@ -10,8 +10,8 @@ const Testimonial = () => {
       </div>
       <div className="testimonial-content">
         <div className="testimonial-image">
-          <img src="./Public/Group_user.jpg" alt="Testimonial" />
-          <img src="./Public/star.jpg" alt="star" className='star3' />
+          <img src="Group_user.jpg" alt="Testimonial" />
+          <img src="star.jpg" alt="star" className='star3' />
         </div>
         <div className="testimonial-text">
           <h3>The Best Financial Accounting App Ever!</h3>
@@ -22,7 +22,7 @@ const Testimonial = () => {
             Sit Nunc, Gravida Eu. Lectus Eget Eget Ac Dolor Neque Lorem Sapien, 
             Suspendisse Aliquam.
           </p>
-          <img src="./Public/group.jpg" alt="group" className='group' />
+          <img src="group.jpg" alt="group" className='group' />
           <p className="user-name">Nick Jonas</p>
         </div>
       </div>

@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
   return (
     <header className="header">
-      <img src="/Public/Frame.jpg" alt="Logo" className="logo-image" />
+      <img src="Frame.jpg" alt="Logo" className="logo-image" />
   
       <nav>
         <ul>
