@@ -25,21 +25,21 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-240%, 50%);
+  transform: translate(-212%, 50%);
   -ms-transform: translate(50%, 50%);
 }
 
 .download-app-btn:hover {
-  background-color: #e60000;
+  background-color: #949494;
 }
 
 @media (max-width: 768px) {
   .cta-section {
-    width: 100%;
+    width: 100;
   }
 
   .download-app-btn {
-    transform: translate(-170%, 30%);
+    transform: translate(-212%, 30%);
     -ms-transform: translate(-50%, 50%);
   }
 }
