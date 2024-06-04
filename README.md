@@ -64,8 +64,9 @@ The Uftry App landing page is built using the following technologies:
 ## Video
 
 https://github.com/Manojgupta103/Landing-Page/assets/113758890/07b55a56-4524-4d3a-b17d-e920402d068b
-## DeploymentLink
 
+## DeploymentLink
+https://landing-page-flame-seven-99.vercel.app/
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
