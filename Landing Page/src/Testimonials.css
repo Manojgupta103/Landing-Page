@@ -34,7 +34,7 @@ body {
   .testimonial-image img {
     max-width: 100%;
     height: auto;
-    background-image: url('./Images/Blur1.jpg');
+    background-image: url('./Public/Blur1.jpg');
     background-size: cover;
     background-position: center;
 

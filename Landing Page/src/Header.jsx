@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
   return (
     <header className="header">
-      <img src="/images/Frame.png" alt="Logo" className="logo-image" />
+      <img src="/Public/Frame.jpg" alt="Logo" className="logo-image" />
   
       <nav>
         <ul>
@@ -15,7 +15,7 @@ const Header = () => {
         </ul>
       </nav>
       <button className="download-btn">Download</button>
-      <img className='Heroimage' src="./images/star.jpg" alt="Hero Image1" />
+      <img className='Heroimage' src="./Public/star.jpg" alt="Hero Image1" />
     </header>
   );
 };

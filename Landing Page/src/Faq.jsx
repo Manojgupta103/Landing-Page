@@ -33,7 +33,7 @@ const Faq = () => {
     <div className="faq-section">
       <h2>FAQ</h2>
       <h3>Frequently Asked Questions</h3>
-      <img src='./images/star.jpg' alt='star' className='star4'></img>
+      <img src='./Public/star.jpg' alt='star' className='star4'></img>
       <div className="faq-container">
         {faqs.map((faq, index) => (
           <div key={index} className={`faq-item ${index % 2 === 0 ? 'highlight' : ''}`}>
