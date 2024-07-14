@@ -77,5 +77,5 @@ Mail Id:- manoj.gupta16539@sakec.ac.in
 #SocialMedia
 - [GitHub](https://github.com/Manojgupta103)
 - [LinkedIn](https://www.linkedin.com/in/manoj-ramashish-gupta/)
-- [Portfolio](https://manoj-gupta-Profile-vercel.app/)
+- [Portfolio](https://manoj-gupta-profile.vercel.app/)
 
